@@ -1,0 +1,7 @@
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\bin\Debug\CallWebApi.exe.config
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\bin\Debug\CallWebApi.exe
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\bin\Debug\CallWebApi.pdb
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\obj\Debug\CallWebApi.csprojResolveAssemblyReference.cache
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\obj\Debug\CallWebApi.csproj.CoreCompileInputs.cache
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\obj\Debug\CallWebApi.exe
+c:\users\administrator\source\repos\CallWebApi\CallWebApi\obj\Debug\CallWebApi.pdb
